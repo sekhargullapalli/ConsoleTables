@@ -27,11 +27,11 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
   </ItemGroup>
-  <ItemGroup>
+  <!-- <ItemGroup>
     <PackageReference Include="MinVer" Version="1.0.0-beta.2">
         <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-  </ItemGroup>
+  </ItemGroup> -->
   <ItemGroup>
     <Compile Remove="artifacts\**" />
   </ItemGroup>
